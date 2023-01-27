@@ -1,19 +1,20 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2019/07/16/18/18/frontend-4342425_960_720.png)](https://nikhleshkumar.io)
 <h1 align="center">Hi 👋, I'm Nikhlesh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt= "Coding" width ="400 src="https://media4.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e470jhu4p89sps3s20uu8f350im76dc2k9xxtl8mlya&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilverm&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilverm" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Java,HTML,CSS,Javascript**
+- 🔭 I’m currently working on **FRONTEND PROJECT**
+
+- 👯 I’m looking to collaborate on **about life**
 
 - 📫 How to reach me **kumarnikhlesh2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/nikhill.verma_/?fbclid=iwar2m-8yg_0nh2hgzgk4hsvfym7re_viysflwv2hpx_wzf3vlhp4xxvs-eqw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nikhill.verma_/?fbclid=iwar2m-8yg_0nh2hgzgk4hsvfym7re_viysflwv2hpx_wzf3vlhp4xxvs-eqw" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@201500440_nikhle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@201500440_nikhle" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kumarnikhlesh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kumarnikhlesh2002" height="30" width="40" /></a>
 </p>
 
