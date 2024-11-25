@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhlesh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h3 align="center">A Pre-Final Year Student at GLA University, Mathura</h3>
+<h3 align="center">A Final Year Student at GLA University, Mathura</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilverm&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilverm" /> </p>
 
