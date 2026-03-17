@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nikhlesh Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<h3 align="center">A Final Year Student at GLA University, Mathura</h3>
+<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">Graduated from GLA University, Mathura</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilverm&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilverm" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **FRONTEND PROJECT**
+- 🔭 I’m currently working on **Chat-Bot Project**
 
 - 👯 I’m looking to collaborate on **about life**
 
